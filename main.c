@@ -33,8 +33,8 @@
 /*------------------------------------------------------------------------------
  * VARIABLES 
  ------------------------------------------------------------------------------*/
-uint8_t bandera_write = 0;             // Variable para leer
-uint8_t bandera_read = 0;              // Varibale para escribir
+uint8_t bandera_write = 0;             // Variable para escribir
+uint8_t bandera_read = 0;              // Varibale para leer
 uint8_t valor_pot = 0;                 // Variable para valor de potenciometro 
 uint8_t bandera_sleep = 0;             // Bandera para dormir o despertar
 
